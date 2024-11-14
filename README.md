@@ -13,6 +13,6 @@ My ability to navigate across different domains enables me to deliver solutions 
 * 🌍  I'm based in INDIA.
 * ✉️  You can contact me at [Yuvrajsrsingh@gmail.com](mailto:Yuvrajsrsingh@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajsrsingh&show_icons=true&locale=en" alt="ashishps1" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajsrsingh&show_icons=true&locale=en" alt="yuvrajsrsingh" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsrsingh&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
