@@ -1,4 +1,4 @@
-/*<p align="center"><a href="https://singhyuvraj.tech"><img width="80%" alt="Hello, I'm Yuvraj. I do open source!" src="./assets/gh-readme-header.png" /></a></p>*/
+
 <h1 align='center'>Hi 👋 I am Yuvraj Singh</h1>
 <h2>About me👇</h2>
 
