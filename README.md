@@ -2,7 +2,7 @@
 <h1 align='center'>Hi 👋 I am Yuvraj Singh</h1>
 <h2>About me👇</h2>
 
-🤖I am an undergraduate student with a keen interest in synthesizing ideas across diverse disciplines, fostering collaboration among teams, and applying insights from various industries.
+🤖I am a programmer from India ,with a keen interest in synthesizing ideas across diverse disciplines, fostering collaboration among teams, and applying insights from various industries.
 
 🎓My academic foundation is rooted in software engineering and machine learning, and I possess robust technical skills. I am passionate about utilizing tailored data and algorithms to address business challenges, and I excel in conveying intricate concepts to non-technical stakeholders. 
 
